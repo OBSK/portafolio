@@ -1,0 +1,37 @@
+<svg width="420" height="520" viewBox="0 0 420 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="60" y1="40" x2="360" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3DDBD9" stop-opacity="0.6" />
+      <stop offset="0.5" stop-color="#8A63FF" stop-opacity="0.7" />
+      <stop offset="1" stop-color="#050410" stop-opacity="0.8" />
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 160) rotate(90) scale(180 130)">
+      <stop stop-color="#F7F9FC" stop-opacity="0.95" />
+      <stop offset="0.65" stop-color="#C3D2FF" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#141428" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="419" height="519" rx="48.5" fill="url(#paint0_linear)" stroke="rgba(255,255,255,0.15)" />
+  <g filter="url(#filter0_f)">
+    <ellipse cx="210" cy="170" rx="120" ry="90" fill="rgba(61,219,217,0.25)" />
+  </g>
+  <circle cx="210" cy="200" r="180" fill="url(#paint1_radial)" />
+  <path d="M145 320C145 260 170 215 210 215C250 215 275 260 275 320C275 380 250 425 210 425C170 425 145 380 145 320Z" fill="rgba(8,12,32,0.9)" />
+  <path d="M178 240C178 214 193 195 210 195C227 195 242 214 242 240C242 266 227 285 210 285C193 285 178 266 178 240Z" fill="#F7F9FC" fill-opacity="0.88" />
+  <path d="M196 238C196 228 203 221 210 221C217 221 224 228 224 238C224 248 217 255 210 255C203 255 196 248 196 238Z" fill="#0F1729" fill-opacity="0.8" />
+  <path d="M175 328C175 305 190 288 210 288C230 288 245 305 245 328C245 351 230 368 210 368C190 368 175 351 175 328Z" fill="#1B1B2E" />
+  <path d="M150 320C150 260 175 210 210 210C245 210 270 260 270 320" stroke="#3DDBD9" stroke-width="3" stroke-linecap="round" stroke-opacity="0.6" />
+  <path d="M165 200C165 170 185 145 210 145C235 145 255 170 255 200" stroke="#8A63FF" stroke-width="3" stroke-opacity="0.6" />
+  <path d="M135 340C120 360 120 390 135 410" stroke="#8A63FF" stroke-opacity="0.5" stroke-width="4" stroke-linecap="round" />
+  <path d="M285 340C300 360 300 390 285 410" stroke="#3DDBD9" stroke-opacity="0.5" stroke-width="4" stroke-linecap="round" />
+  <path d="M130 180L210 130L290 180" stroke="#F7F9FC" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.4" />
+  <circle cx="120" cy="180" r="6" fill="#3DDBD9" fill-opacity="0.6" />
+  <circle cx="300" cy="180" r="6" fill="#8A63FF" fill-opacity="0.6" />
+  <defs>
+    <filter id="filter0_f" x="40" y="60" width="340" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="28" result="effect1_foregroundBlur" />
+    </filter>
+  </defs>
+</svg>
