@@ -1,0 +1,23 @@
+.footer {
+  padding: 3rem 0 4rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(5, 4, 16, 0.85);
+  backdrop-filter: blur(12px);
+}
+
+.content {
+  text-align: center;
+  color: rgba(247, 249, 252, 0.6);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.content a {
+  color: var(--accent-secondary);
+  margin: 0 0.4rem;
+  text-decoration: none;
+}
+
+.content a:hover {
+  color: white;
+}
